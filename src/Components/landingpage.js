@@ -33,7 +33,7 @@ class Landing extends Component {
 
                                 {/* Instagram */}
                                 <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                                    <i className="fab fa-instagram-square" aria-hidden="true" />
+                                    <i className="fa fa-instagram-square" aria-hidden="true" />
                                 </a>
 
                                 {/* YouTube */}
