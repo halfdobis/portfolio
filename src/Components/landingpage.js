@@ -31,14 +31,19 @@ class Landing extends Component {
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
 
-                                {/* Instagram */}
-                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-instagram-square" aria-hidden="true" />
+                                {/* Twitter */}
+                                <a href="https://www.twitter.com/missdobis?s=09" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-twitter" aria-hidden="true" />
                                 </a>
 
-                                {/* YouTube */}
-                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-youtube-square" aria-hidden="true" />
+                                {/* Instagram */}
+                                <a href="https://www.instagram.com/missdobis?r=nametag" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-instagram" aria-hidden="true" />
+                                </a>
+
+                                {/* Telegram */}
+                                <a href="https://t.me/missdobis" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-telegram" aria-hidden="true" />
                                 </a>
                                 
                             </div>
