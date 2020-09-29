@@ -24,12 +24,7 @@
 }
 
 .projects-grid {
-  background: #000428;
-  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to top, #004e92, #000428);
-  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(hsl(230, 17%, 14%), hsl(232, 19%, 15%));
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: whitesmoke;
 
   display:flex;
   position: fixed;
@@ -43,6 +38,48 @@
    border-radius: 5px;
    position: relative;
    overflow: hidden;
+ }
+
+ .contact-body {
+   margin: auto;
+   position: fixed;
+   width: 100%;
+   height: 100%;
+   background: whitesmoke;
+   justify-content: center;
+   padding-top: 2em;
+ }
+
+ .contact-grid {
+   text-align: center;
+   justify-content: center;
+   width: 80%;
+   height: 550px;
+   background: whitesmoke;
+   color: black;
+   border-radius: 2px solid ;
+   margin-bottom: 20px;
+ }
+
+ .contact-grid h2 {
+   font-family: 'Anton', sans-serif;
+ }
+
+ .contact-grid p {
+   font-family: 'Oxygen', sans-serif;
+   font-weight: bold;
+   font-size: 20px;
+ }
+
+ .contact-grid hr {
+   border-top: 5px dotted black;
+   width: 50%;
+   margin: auto;
+ }
+
+ .contact-list i {
+   font-size: 66px;
+   padding-right: 4rem;
  }
   
 
