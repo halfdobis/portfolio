@@ -24,11 +24,11 @@
 }
 
 .projects-grid {
-  background: #D3CCE3;
+  background: #000428;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);
+  background: -webkit-linear-gradient(to top, #004e92, #000428);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #E9E4F0, #D3CCE3);
+  background: linear-gradient(hsl(230, 17%, 14%), hsl(232, 19%, 15%));
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   display:flex;
@@ -37,6 +37,13 @@
   width: 100%;
   height: 100%;
 }
+
+ .box-grid {
+   padding: 20px;
+   border-radius: 5px;
+   position: relative;
+   overflow: hidden;
+ }
   
 
 .avatar-img {

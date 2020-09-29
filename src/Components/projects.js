@@ -15,7 +15,7 @@ class Projects extends Component {
                 < div className = "projects-grid" >
                     {/* Countdown Timer */}
             
-                    <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+                    <Card className="box-grid" shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
                         <CardTitle style={{ color: '#fff', height: '176px', background: 'url(./img/Countdown.PNG) center / cover' }}>Countdown Timer</CardTitle>
                         <CardText>
                             This project was built using HTML, CSS and Vanilla JS. And Bootstrap framework, of course.
@@ -37,7 +37,7 @@ class Projects extends Component {
                 <div className="projects-grid">
                { /* My Playlist */ }
                     
-        <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+        <Card className="box-grid" shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{ color: 'black', height: '176px', background: 'url(./img/Playlist.PNG) center / cover' }}>My Playlist</CardTitle>
             <CardText>
                 This project was built using HTML, CSS and Vanilla JS. And also, with Bootstrap for responsiveness.
@@ -55,7 +55,7 @@ class Projects extends Component {
                     
                     { /* My Music App */}
                     
-                <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <Card className="box-grid" shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{ color: 'black', height: '176px', background: 'url(./img/Music.PNG) center / cover' }}>My Music App</CardTitle>
             <CardText>
                 This project was built using HTML, CSS only.
@@ -77,7 +77,7 @@ class Projects extends Component {
                 < div className = "projects-grid" >
                 {/* Validated Form */}
                     
-        <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+        <Card className="box-grid" shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{ color: 'black', height: '176px', background: 'url(./img/Form.PNG) center / cover' }}>Validated Form</CardTitle>
             <CardText>
                 This project was built with Bootstrap framework, Vanilla js for validation and sweetalert.
@@ -99,7 +99,7 @@ class Projects extends Component {
                 <div className="projects-grid">
                     {/* Guessing Game */}
                     
-        <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+        <Card className="box-grid" shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{ color: 'black', height: '176px', background: 'url(./img/Game.PNG) center / cover' }}>Guessing Game</CardTitle>
             <CardText>
                 This project was built using HTML, CSS and Vanilla JS. And also, with Bootstrap for responsiveness.
