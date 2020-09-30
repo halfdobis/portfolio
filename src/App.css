@@ -23,9 +23,14 @@
   height: 100%;
 }
 
+.resume-right-col {
+  background: #141E30;
+  color: white;
+  padding: 2em;
+}
+
 .projects-grid {
   background: whitesmoke;
-
   display:flex;
   position: fixed;
   left: 0;
