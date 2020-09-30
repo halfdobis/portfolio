@@ -43,6 +43,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66b36668-937e-47bc-9e37-59b9ab3836ad/deploy-status)](https://app.netlify.com/sites/dobisportfolio/deploys)
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
