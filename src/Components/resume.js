@@ -21,17 +21,18 @@ class Resume extends Component {
                         <h2 style={{ paddingTop: '2em' }}>Adaobi Ezenwa</h2>
                         <h4 style={{ color: '#141E30' }}>Programmer | Hardware Engineer</h4>
                         <hr style={{ borderTop: '3px solid', width: '50%' }} />
-                        <p>Adaobi is a Software Developer who is also a Hardware
-                        Engineer. Currently working as a Hardware Engineer at Hinckley
-                        Associates and interning as a FrontEnd developer at Dev_Careers
-                        with both companies based in Lagos, Nigeria.</p>
+                        <p style={{ fontSize: '17px' }}>Software Developer, Hardware Engineer and, a partial Electrical 
+                        Engineer. Currently working as a Hardware Engineer and Electrical 
+                        Engineer at Hinckley Associates (HP Service Centre) and interning 
+                        as a FrontEnd  Web Developer at Dev_Careers with both companies based
+                        in Lagos, Nigeria.</p>
                         <hr style={{ borderTop: '3px solid', width: '50%' }} />
                         <h5>Address</h5>
-                        <p>No 6 Ayodele street, Abule-Oja, Yaba, Lagos State, Nigeria.</p>
+                        <p style={{ fontSize: '16px' }}>No 6 Ayodele street, Abule-Oja, Yaba, Lagos State, Nigeria.</p>
                         <h5>Phone</h5>
-                        <p>+234 8104223355</p>
+                        <p style={{ fontSize: '16px' }}>+234 8104223355</p>
                         <h5>Email</h5>
-                        <p>missdobis@gmail.com</p>
+                        <p style={{ fontSize: '16px' }}>missdobis@gmail.com</p>
                         <hr style={{ borderTop: '3px solid', width: '50%' }} />
                     </Cell>
 

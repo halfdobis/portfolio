@@ -17,7 +17,7 @@ class Contact extends Component {
                 <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
                   Adaobi is a Software Developer who is also a Hardware
                   Engineer. Currently working as a Hardware Engineer at Hinckley
-                  Associates and interning as a FrontEnd developer at Dev_Careers 
+                  Associates and interning as a FrontEnd Web Developer at Dev_Careers 
                   with both companies based in Lagos, Nigeria.
                 </p>
               </Cell>
