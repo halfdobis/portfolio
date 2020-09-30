@@ -8,11 +8,13 @@ class Landing extends Component {
             <div style={{width: '100%', margin: 'auto'}}>
                 <Grid className="landing-grid">
                     <Cell col={12}>
+                        <div>
                         <img
                             src="./img/dobis.jpg"
                             alt="avatar"
                             className="avatar-img"
-                        />
+                            />
+                            </div>
                         <div className="banner-text"> 
                             <h1>FrontEnd Web Developer</h1>
                             

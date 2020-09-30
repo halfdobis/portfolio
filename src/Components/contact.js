@@ -10,9 +10,9 @@ class Contact extends Component {
               <Cell col={6}>
                 <h2>Adaobi Ezenwa</h2>
                 <img
-                  src="./img/dobis.jpg"
+                  src="./img/dobis1.jpg"
                   alt="avatar"
-                  style={{ height: "250px" }}
+                  className='avatar-img'
                 />
                 <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
                   Adaobi is a Software Developer who is also a Hardware

@@ -13,9 +13,9 @@ class Resume extends Component {
                     <Cell col={4}>
                         <div style={{ textAlign: 'center' }}>
                             <img
-                                src="./img/dobis.jpg"
+                                src="./img/dobis1.jpg"
                                 alt="avatar"
-                                style={{ height: "250px" }}
+                                className="avatar-img"
                             />
                         </div>
                         <h2 style={{ paddingTop: '2em' }}>Adaobi Ezenwa</h2>

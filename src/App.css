@@ -89,8 +89,11 @@
   
 
 .avatar-img {
-  height: 250px;
-  padding-top: 5em;
+  width: 300px;
+  height: 300px;
+  margin-top: 5em;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .banner-text {
