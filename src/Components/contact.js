@@ -24,7 +24,12 @@ class Contact extends Component {
               <List>
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Arvo" }}
+                    className="contact-grid"
+                    style={{
+                      fontSize: "25px",
+                      fontFamily: "Arvo",
+                      fontWeight: "bold",
+                    }}
                   >
                     <i className="fa fa-phone" aria-hidden="true" />
                     +234 8104223355
@@ -33,7 +38,12 @@ class Contact extends Component {
 
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Arvo" }}
+                    className="contact-grid"
+                    style={{
+                      fontSize: "25px",
+                      fontFamily: "Arvo",
+                      fontWeight: "bold",
+                    }}
                   >
                     <i className="fa fa-twitter" aria-hidden="true" />
                     @missdobis
@@ -42,7 +52,12 @@ class Contact extends Component {
 
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Arvo" }}
+                    className="contact-grid"
+                    style={{
+                      fontSize: "25px",
+                      fontFamily: "Arvo",
+                      fontWeight: "bold",
+                    }}
                   >
                     <i className="fa fa-skype" aria-hidden="true" />
                     @dobisdaniel
@@ -51,7 +66,12 @@ class Contact extends Component {
 
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Arvo" }}
+                    className="contact-grid"
+                    style={{
+                      fontSize: "25px",
+                      fontFamily: "Arvo",
+                      fontWeight: "bold",
+                    }}
                   >
                     <i className="fa fa-envelope-square" aria-hidden="true" />
                     missdobis@gmail.com

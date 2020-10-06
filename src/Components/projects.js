@@ -15,11 +15,7 @@ class Projects extends Component {
         <Grid>
           {/* Countdown Timer */}
 
-          <Card
-            className="box-grid"
-            shadow={5}
-            style={{ minWidth: "450", margin: "auto" }}
-          >
+          <Card className="box-grid" shadow={5}>
             <CardTitle
               style={{
                 color: "#fff",
@@ -53,11 +49,7 @@ class Projects extends Component {
 
           {/* My Playlist */}
 
-          <Card
-            className="box-grid"
-            shadow={5}
-            style={{ minWidth: "450", margin: "auto" }}
-          >
+          <Card className="box-grid" shadow={5}>
             <CardTitle
               style={{
                 color: "black",
@@ -91,11 +83,7 @@ class Projects extends Component {
 
           {/* My Music App */}
 
-          <Card
-            className="box-grid"
-            shadow={5}
-            style={{ minWidth: "450", margin: "auto" }}
-          >
+          <Card className="box-grid" shadow={5}>
             <CardTitle
               style={{
                 color: "black",
@@ -126,11 +114,7 @@ class Projects extends Component {
 
           {/* Validated Form */}
 
-          <Card
-            className="box-grid"
-            shadow={5}
-            style={{ minWidth: "450", margin: "auto" }}
-          >
+          <Card className="box-grid" shadow={5}>
             <CardTitle
               style={{
                 color: "black",
@@ -164,11 +148,7 @@ class Projects extends Component {
 
           {/* Guessing Game */}
 
-          <Card
-            className="box-grid"
-            shadow={5}
-            style={{ minWidth: "450", margin: "auto" }}
-          >
+          <Card className="box-grid" shadow={5}>
             <CardTitle
               style={{
                 color: "black",
