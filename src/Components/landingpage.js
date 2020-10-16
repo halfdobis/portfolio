@@ -4,14 +4,15 @@ import { Grid, Cell } from "react-mdl";
 class Landing extends Component {
   render() {
     return (
-      <div style={{ width: "100%", margin: "auto" }}>
-        <Grid className="landing-grid">
+      <div className="landing-grid">
+        <Grid>
           <Cell col={12}>
             <div>
               <img src="./img/dobis.jpg" alt="avatar" className="avatar-img" />
             </div>
             <div className="banner-text">
-              <h1>FrontEnd Web Developer</h1>
+              <h1>Adaobi Ezenwa</h1>
+              <h2>FrontEnd Web Developer</h2>
 
               <hr />
               <p> HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP | JQUERY </p>
