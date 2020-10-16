@@ -151,7 +151,7 @@ box-shadow: 2px 2px 7px 7px gray;
   color: wheat;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 400px) {
   .mdl-layout__drawer-button {
     display: block !important;
   }
