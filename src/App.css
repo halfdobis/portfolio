@@ -173,3 +173,26 @@ box-shadow: 2px 2px 7px 7px gray;
     font-size: 30px;
   }
 }
+
+@media screen and (max-width: 480px) {
+  .mdl-layout__drawer-button {
+    display: block !important;
+  }
+
+  .avatar-img {
+    height: 200px;
+    width: 200px;
+  }
+
+  .social-links i {
+    font-size: 1em;
+  }
+
+  .contact-grid {
+    font-size: 15px !important;
+  }
+
+  .contact-list i {
+    font-size: 30px;
+  }
+}
