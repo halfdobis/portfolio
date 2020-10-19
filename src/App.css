@@ -154,6 +154,7 @@ box-shadow: 2px 2px 7px 7px gray;
 @media screen and (max-width: 400px) {
   .mdl-layout__drawer-button {
     display: block !important;
+    color: white;
   }
 
   .avatar-img {
@@ -177,6 +178,7 @@ box-shadow: 2px 2px 7px 7px gray;
 @media screen and (max-width: 480px) {
   .mdl-layout__drawer-button {
     display: block !important;
+    color: white;
   }
 
   .avatar-img {
