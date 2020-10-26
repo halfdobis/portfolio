@@ -65,14 +65,41 @@ class Resume extends Component {
               companyName="Hinckley Associates (HP Service Centre)"
               jobDescription="Hardware and Electrical Engineer"
             />
+
+            <h6>
+              Computer System maintenance on systems and, Diagnostic run on
+              laptops and desktops.
+            </h6>
+            <h6>
+              Motherboard Programming and system repairs and, Lumos battery
+              testing.
+            </h6>
+
             <Experience
               startYear={2020}
               endYear="Now"
               companyName="Dev_Careers"
-              jobDescription="FrontEnd Web Developer"
+              jobDescription="FrontEnd Web Developer (Intern)"
             />
 
+            <h6>
+              Worked with a team of 5 to develop a web application, using
+              ReactJS, Sass and, JS for a BBN Voting Application task.
+            </h6>
+            <h6>
+              Currently working with a team of 27 to develop a DevCareer
+              website, using ReactJS, Sass, and, Bootstrap.
+            </h6>
+
             <hr style={{ borderTop: "3px solid #e22947" }} />
+
+            <h2>Skills</h2>
+            <h4> HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP | JQUERY </h4>
+
+            <hr style={{ borderTop: "3px solid #e22947" }} />
+
+            <h2>Languages</h2>
+            <h4> ENGLISH | PIGIN | IGBO | FRENCH </h4>
           </Cell>
         </Grid>
       </div>
