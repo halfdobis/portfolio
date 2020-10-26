@@ -134,15 +134,15 @@ box-shadow: 2px 2px 7px 7px gray;
 
 .social-links {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   width: 50%;
   margin: auto;
 }
 
 .social-links i {
   color: white;
-  font-size: 5em;
-  padding: 6px;
+  font-size: 4em;
+  padding: 10px;
   transition: all 300ms ease-in-out;
 }
 
@@ -154,7 +154,7 @@ box-shadow: 2px 2px 7px 7px gray;
 @media screen and (max-width: 400px) {
   .mdl-layout__drawer-button {
     display: block !important;
-    color: white;
+    color: indianred;
   }
 
   .avatar-img {
@@ -178,7 +178,7 @@ box-shadow: 2px 2px 7px 7px gray;
 @media screen and (max-width: 480px) {
   .mdl-layout__drawer-button {
     display: block !important;
-    color: white;
+    color: indianred;
   }
 
   .avatar-img {

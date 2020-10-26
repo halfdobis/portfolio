@@ -44,24 +44,6 @@ class Landing extends Component {
                 >
                   <i className="fa fa-twitter" aria-hidden="true" />
                 </a>
-
-                {/* Instagram */}
-                <a
-                  href="https://www.instagram.com/missdobis?r=nametag"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <i className="fa fa-instagram" aria-hidden="true" />
-                </a>
-
-                {/* Telegram */}
-                <a
-                  href="https://t.me/missdobis"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <i className="fa fa-telegram" aria-hidden="true" />
-                </a>
               </div>
             </div>
           </Cell>
