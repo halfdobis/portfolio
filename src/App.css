@@ -118,7 +118,7 @@ box-shadow: 2px 2px 7px 7px gray;
 
 .banner-text h2 {
   color: white;
-  font-weight: bold;
+  font-weight: inherit;
 }
 
 .banner-text hr {
@@ -160,6 +160,10 @@ box-shadow: 2px 2px 7px 7px gray;
   .avatar-img {
     height: 200px;
     width: 200px;
+  }
+
+  .banner-text h2 {
+    font-size: 35px;
   }
 
   .social-links i {

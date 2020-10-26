@@ -11,8 +11,8 @@ class Landing extends Component {
               <img src="./img/dobis.jpg" alt="avatar" className="avatar-img" />
             </div>
             <div className="banner-text">
-              <h1>Adaobi Ezenwa</h1>
-              <h2>FrontEnd Web Developer</h2>
+              <h2>Adaobi Ezenwa</h2>
+              <h1>FrontEnd Web Developer</h1>
 
               <hr />
               <p> HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP | JQUERY </p>
