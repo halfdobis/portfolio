@@ -13,7 +13,9 @@ class Resume extends Component {
               <img src="./img/dobis1.jpg" alt="avatar" className="avatar-img" />
             </div>
             <h2 style={{ paddingTop: "2em" }}>Adaobi Ezenwa</h2>
-            <h4 style={{ color: "#141E30" }}>Programmer | Hardware Engineer</h4>
+            <h4 style={{ color: "#141E30" }}>
+              Software | Electrical | Hardware Engineer
+            </h4>
             <hr style={{ borderTop: "3px solid", width: "50%" }} />
             <p style={{ fontSize: "17px" }}>
               Software Developer, Hardware Engineer and, a partial Electrical

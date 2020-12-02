@@ -12,7 +12,15 @@ class Landing extends Component {
             </div>
             <div className="banner-text">
               <h2>Adaobi Ezenwa</h2>
-              <h1>FrontEnd Web Developer</h1>
+              <h1 className="wordCarousel">
+                <div>
+                  <h1 className="flip3">
+                    <span>Frontend Developer</span>
+                    <span>Hardware Engineer</span>
+                    <span>Electrical Engineer</span>
+                  </h1>
+                </div>
+              </h1>
 
               <hr />
               <p> HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP | JQUERY </p>
